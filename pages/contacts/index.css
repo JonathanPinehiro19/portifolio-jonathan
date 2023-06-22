@@ -9,8 +9,8 @@
 
 #cForm input,
 #cForm textarea {
-    border: 1px solid red;
-    border-bottom: 3px solid red;
+    border: 1px solid rgb(89, 197, 0);
+    border-bottom: 3px solid rgb(89, 197, 0);
     background-color: rgb(255, 230, 230);
 }
 
